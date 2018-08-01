@@ -1,0 +1,19 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "Tic tac toe game built following react's documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ansontheprogrammer/TicTacToe.git"
+  },
+  "author": "Anson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ansontheprogrammer/TicTacToe/issues"
+  },
+  "homepage": "https://github.com/Ansontheprogrammer/TicTacToe#readme"
+}
